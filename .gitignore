@@ -1,0 +1,21 @@
+HELP.md
+
+*.class
+
+# Log file
+*.log
+
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+target/
+mvnw
+mvnw.cmd
+.mvn/
+
